@@ -3,9 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm Hashanuz Zaman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
-![I am junior front end developer](https://media.licdn.com/dms/image/D4E16AQEkIm5h1xGiSw/profile-displaybackgroundimage-shrink_350_1400/0/1716098983474?e=1725494400&v=beta&t=J8KfS1qC7g8P1xhWreQRnSLiqnSelyTut_MnxM07TYA)
 
 
+<img src="https://media.licdn.com/dms/image/D4E16AQEkIm5h1xGiSw/profile-displaybackgroundimage-shrink_350_1400/0/1716098983474?e=1725494400&v=beta&t=J8KfS1qC7g8P1xhWreQRnSLiqnSelyTut_MnxM07TYA"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himu005&label=Profile%20views&color=0e75b6&style=flat" alt="himu005" /> </p>
 
 - 📫 How to reach me **hashanuzzaman99@gmail.com**
