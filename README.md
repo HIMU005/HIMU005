@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **hashanuzzaman99@gmail.com**
 
-- (https://media.licdn.com/dms/image/D4E16AQEkIm5h1xGiSw/profile-displaybackgroundimage-shrink_350_1400/0/1716098983474?e=1725494400&v=beta&t=J8KfS1qC7g8P1xhWreQRnSLiqnSelyTut_MnxM07TYA)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/himu.hashanuzzaman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himu.hashanuzzaman" height="30" width="40" /></a>
