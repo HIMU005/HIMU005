@@ -1,3 +1,8 @@
+### Hi there 👋, my name Hashanuz Zaman
+#### I am junior front end developer
+![I am junior front end developer](https://media.licdn.com/dms/image/D4E16AQEkIm5h1xGiSw/profile-displaybackgroundimage-shrink_350_1400/0/1716098983474?e=1725494400&v=beta&t=J8KfS1qC7g8P1xhWreQRnSLiqnSelyTut_MnxM07TYA)
+
+
 <h1 align="center">Hi 👋, I'm Hashanuz Zaman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
