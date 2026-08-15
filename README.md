@@ -11,7 +11,7 @@ Aspiring software engineer with a focus on web development, currently deepening 
 * ✉️  You can contact me at [hashanuzzaman99@gmail.com](mailto:hashanuzzaman99@gmail.com)
 * 🧠  I'm learning node.js and express.js
 * 🤝  I'm open to collaborating on anyone with anyone for a exciting project that inhence my skill
-* ⚡  Currently deepening my backend skills with Node.js and Express!
+* ⚡  Currently deepening my backend skills with Nest.js and Postgresql!
 
 ### Skills
 
