@@ -7,7 +7,7 @@ A passionate frontend developer from Bangladesh.
 Aspiring software engineer with a focus on web development, currently deepening my expertise in Node.js and Express. Exploring core backend concepts to build robust, scalable applications, while continuously expanding my full-stack skill set.
 
 * 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [here](http://https://himu005-portfolio.netlify.app/)
+* 🖥️  See my portfolio at [here](https://new-protfolio-six.vercel.app/)
 * ✉️  You can contact me at [hashanuzzaman99@gmail.com](mailto:hashanuzzaman99@gmail.com)
 * 🧠  I'm learning node.js and express.js
 * 🤝  I'm open to collaborating on anyone with anyone for a exciting project that inhence my skill
